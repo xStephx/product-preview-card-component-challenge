@@ -9,7 +9,10 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ![](./images/screenshot.PNG)
 
-You can check it out live [here](https://xstephx.github.io/product-preview-card-component-challenge/).
+### Links
+
+- Solution URL: [here](https://www.frontendmentor.io/solutions/solution-product-preview-card-component-k2HDZsbMvl)
+- Live Site URL: [here](https://xstephx.github.io/product-preview-card-component-challenge/)
 
 ## My process
 
